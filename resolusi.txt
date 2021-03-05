@@ -1,0 +1,3 @@
+reolusi 2021
+- front end
+- back end 
